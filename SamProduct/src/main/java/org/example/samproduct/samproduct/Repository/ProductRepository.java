@@ -1,6 +1,6 @@
-package org.example.finalproject11.Repository;
+package org.example.samproduct.samproduct.Repository;
 
-import org.example.finalproject11.Model.Product;
+import org.example.samproduct.samproduct.Model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
